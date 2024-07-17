@@ -1,0 +1,26 @@
+Card inserted. Please enter your PIN: 1234      // 입력값 1234
+PIN verified. Please enter your account number: 879653548    // 입력값 879653548
+Account selected. Choose operation (1: balance, 2: deposit, 3: withdraw): 1    // 입력값 1
+Current balance: $5000      // 출력 $5000
+------------------------------------------------------------------------------------------------------------------------------------
+Card inserted. Please enter your PIN: 1234      // 입력값 1234
+PIN verified. Please enter your account number: 584926984    // 입력값 584926984
+Account selected. Choose operation (1: balance, 2: deposit, 3: withdraw): 2    // 입력값 2
+Enter amount to deposit: 9000      // 입력 9000
+New balance: $10000    // 출력 $10000
+------------------------------------------------------------------------------------------------------------------------------------
+Card inserted. Please enter your PIN: 1234      // 입력값 1234
+PIN verified. Please enter your account number: 123456789    // 입력값 123456789
+Account selected. Choose operation (1: balance, 2: deposit, 3: withdraw): 3    // 입력값 3
+Enter amount to withdraw: 800      // 입력 800
+Please take your cash. New balance: $200    // 출력 $200
+------------------------------------------------------------------------------------------------------------------------------------
+Card inserted. Please enter your PIN: 1234      // 입력값 1234
+PIN verified. Please enter your account number: 123456789    // 입력값 123456789
+Account selected. Choose operation (1: balance, 2: deposit, 3: withdraw): 3    // 입력값 3
+Enter amount to withdraw: 1500      // 입력 1500
+Insufficient funds.    // 잔액 부족
+------------------------------------------------------------------------------------------------------------------------------------
+Card inserted. Please enter your PIN: 8963    // 입력값 8963    // PIN 번호가 틀린 경우
+Incorrect PIN. Card returned.
+
